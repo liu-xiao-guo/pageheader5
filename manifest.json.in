@@ -1,0 +1,17 @@
+{
+    "name": "pageheader5.liu-xiao-guo",
+    "description": "description of pageheader5",
+    "architecture": "@CLICK_ARCH@",
+    "title": "pageheader5",
+    "hooks": {
+        "pageheader5": {
+            "apparmor": "pageheader5/pageheader5.apparmor",
+            "desktop":  "pageheader5/pageheader5.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
